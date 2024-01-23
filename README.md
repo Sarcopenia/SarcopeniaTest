@@ -9,3 +9,6 @@ Vertebra (250 HU)
 
 
 Muscle area is 144.53 cm<sup>2</sup>.
+
+
+!(preview.png)
