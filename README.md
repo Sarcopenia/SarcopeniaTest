@@ -5,6 +5,7 @@ This 512x512 synthetic phantom image mimicks an abdominal CT slice at the third 
 Subcutaneous fat (-100 HU)
 abdominal wall (25 HU)
 Visceral fat (-80 HU) 
-Vertebra (250 HU).
+Vertebra (250 HU)
+
 
 Muscle area is 144.53 cm<sup>2</sup>.
