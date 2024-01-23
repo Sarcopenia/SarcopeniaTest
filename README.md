@@ -1,4 +1,4 @@
-**Synthetic CT Dicom Image for comparing CT analysis software packages** 
+**Synthetic CT Dicom Image for comparing CT sarcopenia analysis software packages** 
 
 This 512x512 synthetic phantom image mimicks an abdominal CT slice at the third lumbar level (L3) in stylized form, with several different compartments: 
 
