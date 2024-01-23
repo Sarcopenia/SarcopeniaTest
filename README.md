@@ -11,4 +11,4 @@ Vertebra (250 HU)
 Muscle area is 144.53 cm<sup>2</sup>.
 
 
-!(/preview.PNG)
+![]([/preview.PNG](https://github.com/Sarcopenia/SarcopeniaTest/blob/main/preview.PNG)
