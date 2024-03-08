@@ -12,4 +12,7 @@ Muscle area is 144.53 cm<sup>2</sup>.<br>
 Subcutaneous fat area is 112.39 cm<sup>2</sup>.<br>
 Visceral fat area is 299.72 cm<sup>2</sup>.<br>
 <BR>
+<BR>
+For more information, see the accompanying article: https://www.sciencedirect.com/science/article/pii/S0899900724000716
+<BR>
 ![Preview](https://github.com/Sarcopenia/SarcopeniaTest/blob/main/preview.PNG)
